@@ -1,0 +1,36 @@
+.site-body {
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+.chirp{
+    color: white;
+    background-color: #14171A;
+    padding: 5%;
+    height: auto;
+    border-bottom: 1px solid gray;
+    
+}
+
+.chirp-box{
+    height: 20vh;
+    width: 100%;
+    margin-top: 50px;
+    background-color: black;
+    padding: 1%;
+    color: whitesmoke;
+}
+
+.chirp-button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#root{
+    background-color: #14171A;
+    height: 100%;
+}
+
+.hr{
+    color: black;
+}
